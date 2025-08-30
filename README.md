@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **himanchalkaushale432@gmail.com**
 
-- ⚡ Fun fact **Running on love, iterating through learning.**
+- ⚡**Running on love, iterating through learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
