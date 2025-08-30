@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanchal Kaushale</h1>
-<h3 align="center">Passionate Java full‑stack and ML engineer from India, currently a B.Tech 2nd‑year student building end‑to‑end web apps and practical machine learning projects. Focused on Java/Spring Boot, REST APIs, React, and Python for ML, with a growing portfolio of data‑driven features like recommendation and classification services, aiming to ship production‑grade systems that blend scalable back ends with intelligent models.</h3>
+<h3 align="center">Passionate Java Full‑Stack and ML engineer from India, currently a B.Tech 2nd‑year student building end‑to‑end web apps and practical machine learning projects. Focused on Java/Spring Boot, REST APIs, React, and Python for ML, with a growing portfolio of data‑driven features like recommendation and classification services, aiming to ship production‑grade systems that blend scalable back ends with intelligent models.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanchalkaushale&label=Profile%20views&color=0e75b6&style=flat" alt="himanchalkaushale" /> </p>
 
